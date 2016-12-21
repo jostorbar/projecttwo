@@ -1,0 +1,8 @@
+﻿def operations2(message):
+	print(message)
+
+<<<<<<< HEAD
+operations2('utilizando git Jose Maria')
+=======
+operations2('utilizando git Inma')
+>>>>>>> camibios inma
